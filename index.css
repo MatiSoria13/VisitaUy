@@ -52,6 +52,15 @@ header .logo{
     font-weight: bold;
     color: #0072bc;
     font-size: 1.6em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+header .logo img {
+    max-width: 200px; /* Aumenta o tamanho da imagem */
+    height: auto;
 }
 
 header .container{
