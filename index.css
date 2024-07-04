@@ -99,7 +99,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/uruguay-hero.jpg");
+    ,url("media/Montevideo.1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -151,7 +151,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/montevideo.jpg");
+    ,url("media/CiudadVieja.1.jpg");
 }
 
 .carta:nth-child(2){
@@ -259,11 +259,11 @@ footer .container{
     }
 
     #somos-proya .img-container{
-        background-image: url("media/uruguay-somos.jpg");
+        background-image: url("media/Montevideo.2.jpg");
         background-size: cover;
         background-position: center center;
-        height: 500px;
-        width: 400px; 
+        height: 400px;
+        width: 650px; 
     }
 
     #nuestros-programas .programas{
@@ -299,7 +299,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/montevideo-cropped.jpg");
+        ,url("media/CiudadVieja.1.jpg");
 
     }
 
@@ -309,7 +309,7 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/punta-del-este-cropped.jpg");
+        ,url("media/PuntaDelEste.1.jpg");
     }
 
     .carta:nth-child(3){
@@ -318,11 +318,11 @@ footer .container{
             rgba(0,0,0,0.5),
             rgba(0,0,0,0.5)
         )
-        ,url("media/colonia-cropped.jpg");
+        ,url("media/Colonia.1.jpg");
     }
 
     #caracteristicas{
-        background-image: url("media/uruguay-background.jpeg");
+        background-image: url("media/Montevideo.3.jpg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
